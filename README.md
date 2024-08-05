@@ -12,20 +12,19 @@ Objectives
 
 After completing this lab, you should be able to do the following:
 
-Choose effective methods for visualizing data
+* Choose effective methods for visualizing data
 
-Explain the value of data cleaning and transformation
+* Explain the value of data cleaning and transformation
 
-Describe how to process missing values, outliers, duplicated data, etc.
+* Describe how to process missing values, outliers, duplicated data, etc.
 
-Define Key Encoding techniques
+* Define Key Encoding techniques
 
-Describe how to ingest and transform data into Amazon Sagemaker Data Wrangler
+* Describe how to ingest and transform data into Amazon Sagemaker Data Wrangler
 
-Describe how to transform data using Spark on Amazon EMR
+* Describe how to transform data using Spark on Amazon EMR
 
 Technical knowledge prerequisites
-
 To successfully complete this lab, you should have knowledge of:
 
 Basic navigation of the AWS Management Console.
