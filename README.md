@@ -25,6 +25,7 @@ After completing this lab, you should be able to do the following:
 * Describe how to transform data using Spark on Amazon EMR
 
 Technical knowledge prerequisites
+
 To successfully complete this lab, you should have knowledge of:
 
 Basic navigation of the AWS Management Console.
